@@ -1,0 +1,2 @@
+Exception:: System.NullReferenceException: Object reference not set to an instance of an object.
+   at WinOfflineReader.App.Application_Startup(Object sender, StartupEventArgs e) in D:\BitBucket_AHAeBooks\WinOfflineReader\App.xaml.cs:line 265 Publisher ::AHA eBooks
